@@ -5,11 +5,12 @@
 
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Mobile Application Development**
 
+- IT Manager at Victor Harris Commercial 
 - 👨‍💻 All of my projects are available at [https://github.com/FahadIshaq](https://github.com/FahadIshaq)
 
-- 📫 How to reach me **fahadxraja29icloud.com**
+- 📫 How to reach me **fahad@victorharris.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
