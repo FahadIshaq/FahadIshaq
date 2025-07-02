@@ -1,22 +1,78 @@
 ![logo](https://github.com/FahadIshaq/FahadIshaq/blob/main/MyBanner.png)
+
 <h1 align="center">Hi 👋, I'm Fahad Ishaq</h1>
-<h3 align="center">A passionate Computer Scientist</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | React & Next.js Specialist</h3>
+
 <img align="right" alt="coding" width="270" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+🚀 Passionate and detail-oriented **Software Engineer** with a focus on building scalable, high-performance applications using modern JavaScript technologies like **React**, **Next.js**, and **Node.js**. Known for clean architecture, responsive UI/UX, and a strong sense of ownership from concept to deployment.
 
+- 🔭 Currently working as an **Associate Frontend Developer at 31 Green Ltd**
+- 💼 Previously served as **IT Manager and Full Stack Developer at Victor Harris Commercial**
+- 📱 Mobile-first enthusiast building apps with **React Native**
+- 📚 Always learning and experimenting with new technologies
+- 💬 Ask me about **React**, **Next.js**, **NestJS**, or **full-stack development**
+- 👨‍💻 My portfolio of work is available on [GitHub](https://github.com/FahadIshaq)
+- 👨‍💻 My portfolio Website is available on [GitHub](https://github.com/FahadIshaq)
+- 📫 Reach me at **fa20bcs017@gmail.com**
 
-- 🌱 I’m currently learning **Mobile Application Development**
+---
 
-- IT Manager at Victor Harris Commercial 
-- 👨‍💻 All of my projects are available at [https://github.com/FahadIshaq](https://github.com/FahadIshaq)
+## 🛠️ Technical Skills
 
-- 📫 How to reach me **fahad@victorharris.co.uk**
+**Languages:** JavaScript, TypeScript, Python, HTML, CSS, C#  
+**Frontend:** React.js, Next.js, React Native, TailwindCSS, Material UI, Bootstrap, SASS  
+**Backend:** Node.js, Express.js, NestJS  
+**Databases:** MongoDB, MySQL  
+**Tools & Workflows:** Git, GitHub, Bitbucket, Jira, REST APIs, Redux, RTK Query  
+**Other:** MangoPay Integration, SEO, CRM Automation, Agile Development  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 💼 Professional Experience
+
+### 🏢 31 Green Ltd — *Associate Frontend Developer*  
+📆 Oct 2024 – Present  
+- Built a scalable real estate platform using **Next.js** and **React Native**.  
+- Designed reusable UI components for fast, consistent development.  
+- Optimized performance with **Redux** and **RTK Query**.  
+- Integrated REST APIs and payment flows via **MangoPay**.  
+
+### 🏢 Victor Harris Commercial — *IT Manager and Full Stack Developer*  
+📆 Aug 2023 – Sep 2024  
+- Developed WordPress and **Next.js** websites with SEO-focused architecture.  
+- Automated CRM workflows and led internal IT initiatives.  
+- Provided tech support, staff training, and ensured **network security**.
+
+---
+
+## 📱 Projects
+
+### 💚 BeWell — Final Year Project  
+**Tech:** React Native, Node.js, MongoDB, FastAPI, Flask  
+A mental health platform offering CBT sessions, real-time tracking, and a community forum. Integrated ML via Flask APIs.
+
+### 🧳 Trip Buddy  
+**Tech:** React Native, Firebase  
+A travel planning app to create to-do lists, plan destinations, and journal trips. Built using **React Native** and **Firebase Realtime DB**.
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/fahadxraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahadxraja" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18065741/fahad-ishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahad-ishaq" height="30" width="40" /></a>
-<a href="https://instagram.com/fahadxraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadxraja" height="30" width="40" /></a>
+  <a href="https://twitter.com/fahadxraja" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/18065741/fahad-ishaq" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/fahadxraja" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ishaq-fahad" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
