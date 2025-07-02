@@ -13,7 +13,7 @@
 - 📚 Always learning and experimenting with new technologies
 - 💬 Ask me about **React**, **Next.js**, **NestJS**, or **full-stack development**
 - 👨‍💻 My portfolio of work is available on [GitHub](https://github.com/FahadIshaq)
-- 👨‍💻 My portfolio Website is available on [GitHub](https://github.com/FahadIshaq)
+- 👨‍💻 My portfolio Website is available on [Fahad Ishaq Live](https://fahadishaq.live)
 - 📫 Reach me at **fa20bcs017@gmail.com**
 
 ---
