@@ -1,86 +1,230 @@
 ![logo](https://github.com/FahadIshaq/FahadIshaq/blob/main/MyBanner.png)
 
 <h1 align="center">Hi 👋, I'm Fahad Ishaq</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | React & Next.js Specialist</h3>
 
-<img align="right" alt="coding" width="270" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">
+Senior Full Stack Engineer • System Architect • AI & Automation Engineer
+</h3>
 
-🚀 Passionate and detail-oriented **Software Engineer** with a focus on building scalable, high-performance applications using modern JavaScript technologies like **React**, **Next.js**, and **Node.js**. Known for clean architecture, responsive UI/UX, and a strong sense of ownership from concept to deployment.
-
-- 🔭 Currently working as an **Associate Frontend Developer at 31 Green Ltd**
-- 💼 Previously served as **IT Manager and Full Stack Developer at Victor Harris Commercial**
-- 📱 Mobile-first enthusiast building apps with **React Native**
-- 📚 Always learning and experimenting with new technologies
-- 💬 Ask me about **React**, **Next.js**, **NestJS**, or **full-stack development**
-- 👨‍💻 My portfolio of work is available on [GitHub](https://github.com/FahadIshaq)
-- 👨‍💻 My portfolio Website is available on [Fahad Ishaq Live](https://fahadishaq.live)
-- 📫 Reach me at **fa20bcs017@gmail.com**
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** JavaScript, TypeScript, Python, HTML, CSS, C#  
-**Frontend:** React.js, Next.js, React Native, TailwindCSS, Material UI, Bootstrap, SASS  
-**Backend:** Node.js, Express.js, NestJS  
-**Databases:** MongoDB, MySQL  
-**Tools & Workflows:** Git, GitHub, Bitbucket, Jira, REST APIs, Redux, RTK Query  
-**Other:** MangoPay Integration, SEO, CRM Automation, Agile Development  
-
----
-
-## 💼 Professional Experience
-
-### 🏢 31 Green Ltd — *Associate Frontend Developer*  
-📆 Oct 2024 – Present  
-- Built a scalable real estate platform using **Next.js** and **React Native**.  
-- Designed reusable UI components for fast, consistent development.  
-- Optimized performance with **Redux** and **RTK Query**.  
-- Integrated REST APIs and payment flows via **MangoPay**.  
-
-### 🏢 Victor Harris Commercial — *IT Manager and Full Stack Developer*  
-📆 Aug 2023 – Sep 2024  
-- Developed WordPress and **Next.js** websites with SEO-focused architecture.  
-- Automated CRM workflows and led internal IT initiatives.  
-- Provided tech support, staff training, and ensured **network security**.
-
----
-
-## 📱 Projects
-
-### 💚 BeWell — Final Year Project  
-**Tech:** React Native, Node.js, MongoDB, FastAPI, Flask  
-A mental health platform offering CBT sessions, real-time tracking, and a community forum. Integrated ML via Flask APIs.
-
-### 🧳 Trip Buddy  
-**Tech:** React Native, Firebase  
-A travel planning app to create to-do lists, plan destinations, and journal trips. Built using **React Native** and **Firebase Realtime DB**.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/fahadxraja" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+<p align="center">
+  <a href="https://fahadishaq.live" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://stackoverflow.com/users/18065741/fahad-ishaq" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
+
+  <a href="mailto:fahadishaqshared@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://instagram.com/fahadxraja" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/ishaq-fahad" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+
+  <a href="https://linkedin.com/in/ishaq-fahad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadishaq&show_icons=true&locale=en&layout=compact" alt="fahadishaq" /></p>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadishaq&show_icons=true&locale=en" alt="fahadishaq" /></p>
+# 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadishaq&" alt="fahadishaq" /></p>
+I'm a **Senior Full-Stack Engineer, AI & Automation Engineer, and Systems Architect** with 4+ years of experience building scalable web platforms, intelligent automation systems, and AI-powered products.
 
+I specialize in architecting high-performance applications using:
+
+- ⚛️ React.js, Next.js, React Native
+- 🛠️ Node.js, Nest.js, Python
+- 🤖 AI workflows, LLM integrations & RAG pipelines
+- ☁️ Cloud infrastructure & scalable architectures
+- 🔄 Automation systems using n8n, Make.com & Zapier
+
+I focus on transforming complex business ideas into scalable, production-ready systems with clean architecture, automation, and exceptional user experience.
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Senior Full Stack Developer — 31 Green Ltd
+📍 Remote | 📆 Oct 2024 – Present
+
+- Built scalable web & mobile platforms across healthcare and real estate sectors
+- Led backend engineering for **MySpecialistOpinion Phase 2**
+- Developed scalable APIs, business logic, and workflow systems
+- Engineered intuitive healthcare interfaces for **Bourne Health**
+- Built modular frontend systems using **Next.js**, **React**, and REST APIs
+- Improved application scalability, maintainability, and performance
+
+---
+
+## 🏢 Senior Full Stack Developer — Elite Capital & Management Services Ltd
+📍 Remote | 📆 Aug 2025 – Jan 2026
+
+- Worked on **Bayuti**, a fintech-powered real estate investment platform
+- Built scalable features using **Next.js**, **React**, and **Node.js**
+- Integrated:
+  - 💳 MangoPay
+  - ✍️ DocuSign
+  - 🛡️ Onfido KYC Verification
+- Developed internal management systems and operational dashboards
+- Optimized backend APIs and platform performance
+
+---
+
+## 🏢 CTO & Senior Full Stack Engineer — ASKASIF
+📍 Remote | 📆 Sep 2024 – Jun 2025
+
+- Architected and developed the complete AskAsif platform
+- Built AI-powered workflows and intelligent automation systems
+- Integrated LLMs and advanced business automation pipelines
+- Developed CRM systems and operational management tools
+- Led engineering strategy, architecture, and technical direction
+
+---
+
+## 🏢 IT Project Manager & Full Stack Developer — Victor Harris Commercial
+📍 📆 Aug 2023 – Sep 2024
+
+- Led development and IT operations for commercial real estate platforms
+- Built systems using **Next.js**, **React**, and **WordPress**
+- Implemented SEO optimization and digital integrations
+- Automated CRM workflows and internal business processes
+- Managed IT infrastructure, support, and security operations
+
+---
+
+# 🧠 AI, Automation & System Architecture
+
+### 🤖 AI & NLP
+- OpenAI API
+- Claude
+- Gemini
+- DeepSeek
+- ElevenLabs
+- TwelveLabs
+- Jina AI
+- Pinecone
+- Vector Databases
+- RAG Pipelines
+- Knowledge Retrieval Systems
+
+### 🔄 Automation Platforms
+- n8n
+- Make.com
+- Zapier
+- Power Automate
+
+### ⚡ AI Business Automation
+- OCR Invoice Processing
+- API/Webhook Automation
+- Appointment Scheduling
+- Xero Integrations
+- DocuSign Automation
+- Intelligent CRM Workflows
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,html,css,bash" />
+</p>
+
+## ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,materialui" />
+</p>
+
+## 🔧 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase" />
+</p>
+
+## 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,azure,docker" />
+</p>
+
+## ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,postman,vscode" />
+</p>
+
+---
+
+# 📱 Featured Projects
+
+## 💚 BeWell — AI Mental Health Platform
+**Tech Stack:** React Native • Node.js • MongoDB • Flask • FastAPI
+
+- CBT-based therapy ecosystem
+- Real-time emotional tracking
+- Community support system
+- ML-powered recommendations
+- AI-enhanced healthcare workflows
+
+---
+
+## 🧳 Trip Buddy — Smart Travel Planner
+**Tech Stack:** React Native • Firebase
+
+- Trip planning & journaling
+- Smart task management
+- Firebase realtime sync
+- Mobile-first UX experience
+
+---
+
+# ⚡ Core Expertise
+
+- Full-Stack Development
+- System Architecture
+- AI Integrations
+- LLM Applications
+- RAG Pipelines
+- Cloud Infrastructure
+- Fintech Platforms
+- Healthcare Systems
+- CRM Automation
+- REST APIs & GraphQL
+- CI/CD Pipelines
+- Docker & GitHub Actions
+- Real-Time Applications
+- WebSocket Systems
+- Linux Server Management
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FahadIshaq&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FahadIshaq&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIshaq&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ishaq-fahad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="https://github.com/FahadIshaq" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+
+  <a href="mailto:fahadishaqshared@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+⚡ Building scalable systems, intelligent automations, and AI-powered digital products.
+</h3>
