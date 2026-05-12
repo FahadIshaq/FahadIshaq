@@ -7,16 +7,20 @@ Senior Full Stack Engineer • System Architect • AI & Automation Engineer
 </h3>
 
 <p align="center">
-  <a href="https://fahadishaq.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" />
+  <a href="https://www.fahadishaq.live" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-fahadishaq.live-0A66C2?style=for-the-badge" />
   </a>
 
   <a href="mailto:fahadishaqshared@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge" />
   </a>
 
   <a href="https://linkedin.com/in/ishaq-fahad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/FahadIshaq" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -40,10 +44,23 @@ I focus on transforming complex business ideas into scalable, production-ready s
 
 ---
 
+# 🌐 Portfolio Website
+
+<p align="center">
+  <a href="https://www.fahadishaq.live" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+### 🔗 Live Portfolio
+👉 **https://www.fahadishaq.live**
+
+---
+
 # 💼 Professional Experience
 
 ## 🏢 Senior Full Stack Developer — 31 Green Ltd
-📍 Remote | 📆 Oct 2024 – Present
+📍 Remote | 📆 Oct 2024 – Feb 2025
 
 - Built scalable web & mobile platforms across healthcare and real estate sectors
 - Led backend engineering for **MySpecialistOpinion Phase 2**
@@ -87,6 +104,49 @@ I focus on transforming complex business ideas into scalable, production-ready s
 - Implemented SEO optimization and digital integrations
 - Automated CRM workflows and internal business processes
 - Managed IT infrastructure, support, and security operations
+
+---
+
+# 🚀 Featured Projects
+
+## 🏡 Bayuti — Fintech Real Estate Investment Platform
+**Tech Stack:** Next.js • Node.js • MangoPay • DocuSign • Onfido
+
+- Built scalable fintech-powered investment workflows
+- Integrated payment systems, e-signatures, and KYC verification
+- Developed operational dashboards and internal management systems
+- Optimized backend performance and API architecture
+
+---
+
+## 🤖 AskAsif — AI Automation & CRM Platform
+**Tech Stack:** Next.js • Node.js • OpenAI • Automation Pipelines
+
+- Developed AI-powered automation workflows
+- Integrated LLMs and intelligent business logic
+- Built CRM systems and operational dashboards
+- Architected scalable backend systems and APIs
+
+---
+
+## 🏥 MySpecialistOpinion — Healthcare Platform
+**Tech Stack:** React • Next.js • Node.js • REST APIs
+
+- Led backend engineering and workflow architecture
+- Developed scalable healthcare APIs and data systems
+- Simplified complex healthcare workflows through intuitive UI
+- Improved maintainability and system performance
+
+---
+
+## 💚 BeWell — AI Mental Health Platform
+**Tech Stack:** React Native • Flask • FastAPI • MongoDB
+
+- CBT-based therapy ecosystem
+- Real-time emotional tracking
+- AI-powered recommendations
+- ML-enhanced healthcare workflows
+- Community support systems
 
 ---
 
@@ -150,49 +210,6 @@ I focus on transforming complex business ideas into scalable, production-ready s
 
 ---
 
-# 📱 Featured Projects
-
-## 💚 BeWell — AI Mental Health Platform
-**Tech Stack:** React Native • Node.js • MongoDB • Flask • FastAPI
-
-- CBT-based therapy ecosystem
-- Real-time emotional tracking
-- Community support system
-- ML-powered recommendations
-- AI-enhanced healthcare workflows
-
----
-
-## 🧳 Trip Buddy — Smart Travel Planner
-**Tech Stack:** React Native • Firebase
-
-- Trip planning & journaling
-- Smart task management
-- Firebase realtime sync
-- Mobile-first UX experience
-
----
-
-# ⚡ Core Expertise
-
-- Full-Stack Development
-- System Architecture
-- AI Integrations
-- LLM Applications
-- RAG Pipelines
-- Cloud Infrastructure
-- Fintech Platforms
-- Healthcare Systems
-- CRM Automation
-- REST APIs & GraphQL
-- CI/CD Pipelines
-- Docker & GitHub Actions
-- Real-Time Applications
-- WebSocket Systems
-- Linux Server Management
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -216,6 +233,10 @@ I focus on transforming complex business ideas into scalable, production-ready s
 
   <a href="https://github.com/FahadIshaq" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+
+  <a href="https://www.fahadishaq.live" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
   </a>
 
   <a href="mailto:fahadishaqshared@gmail.com">
