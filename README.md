@@ -185,7 +185,6 @@ OCR Invoice Processing • Appointment Scheduling • Xero Integrations • Docu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FahadIshaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" alt="Fahad Ishaq GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=FahadIshaq&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Fahad Ishaq GitHub Streak" />
 </p>
 
