@@ -30,7 +30,7 @@ Senior Full Stack Engineer • System Architect • AI & Automation Engineer
 
 # 🚀 About Me
 
-I'm a **Senior Full-Stack Engineer, AI & Automation Engineer, and Systems Architect** with 4+ years of experience building scalable web platforms, intelligent automation systems, and AI-powered products.
+I'm a **Senior Full-Stack Engineer, AI & Automation Engineer, and Systems Architect** with 5+ years of experience building scalable web platforms, intelligent automation systems, and AI-powered products.
 
 I specialize in architecting high-performance applications using:
 
