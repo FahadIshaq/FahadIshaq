@@ -7,8 +7,8 @@ Senior Full Stack Engineer • System Architect • AI & Automation Engineer
 </h3>
 
 <p align="center">
-  <a href="https://www.fahadishaq.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-fahadishaq.live-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.fahadishaq.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-fahadishaq.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:fahadishaqshared@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -45,7 +45,7 @@ I focus on turning complex business ideas into clean, scalable, high-performance
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://www.fahadishaq.live" target="_blank">
+  <a href="https://www.fahadishaq.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
   </a>
 </p>
@@ -199,7 +199,7 @@ OCR Invoice Processing • Appointment Scheduling • Xero Integrations • Docu
   <a href="https://github.com/FahadIshaq" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
-  <a href="https://www.fahadishaq.live" target="_blank">
+  <a href="https://www.fahadishaq.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio" />
   </a>
   <a href="mailto:fahadishaqshared@gmail.com">
