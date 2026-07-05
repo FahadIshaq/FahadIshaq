@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/FahadIshaq/FahadIshaq/main/MyBanner.png" alt="Fahad Ishaq Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/FahadIshaq/FahadIshaq/main/bannerF.png" alt="Fahad Ishaq Banner" />
 
 <h1 align="center">Hi 👋, I'm Fahad Ishaq</h1>
 
