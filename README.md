@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Ishaq</h1>
 
 <h3 align="center">
-Senior Full Stack Engineer • System Architect • AI & Automation Engineer
+Senior Full Stack Engineer • System Architect • AI & Automation Engineer 
 </h3>
 
 <p align="center">
